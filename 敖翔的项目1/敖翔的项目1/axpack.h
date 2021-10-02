@@ -1,1 +1,1 @@
-extern int aoxiang(int a, int b);
+int aoxiang(int a, int b);
